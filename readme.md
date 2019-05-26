@@ -1,1 +1,1 @@
-# React Boilerplate
+# My Awesome New App

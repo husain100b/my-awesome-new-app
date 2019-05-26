@@ -1,5 +1,5 @@
 {
-  "name": "eggwebpack",
+  "name": "my-awesome-new-project",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
@@ -18,15 +18,7 @@
   },
   "author": "",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/husain100b/egghead-react-boilerplate.git"
-  },
   "keywords": [],
-  "bugs": {
-    "url": "https://github.com/husain100b/egghead-react-boilerplate/issues"
-  },
-  "homepage": "https://github.com/husain100b/egghead-react-boilerplate#readme",
   "devDependencies": {
     "@babel/cli": "^7.4.4",
     "@babel/core": "^7.4.5",
@@ -64,5 +56,13 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-hot-loader": "^4.8.8"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/husain100b/my-awesome-new-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/husain100b/my-awesome-new-app/issues"
+  },
+  "homepage": "https://github.com/husain100b/my-awesome-new-app#readme"
 }
